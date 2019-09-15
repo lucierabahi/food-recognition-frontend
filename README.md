@@ -1,3 +1,19 @@
+## Smart Brain - Food Recognition
+
+### Final project of the 'Complete Web Developer in 2019' of Andrei Neagoie.      
+
+Front End:
+- HTML5 - CSS3 - Javascript - React
+
+Back End:
+- Node.js - Express.js - PostgreSQL
+
+API: Clarifai image recognition 'Food Model'
+
+Deployment:
+- GitHub - Heroku
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
